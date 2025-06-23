@@ -1,0 +1,30 @@
+[
+    {
+        "titlu": "Lolita",
+        "gen": "Roman contemporan",
+        "an_publicare": 2013,
+        "autor": "Vladimir Nabokov",
+        "rating": 7.2
+    },
+    {
+        "titlu": "Aleph",
+        "gen": "Beletristica",
+        "an_publicare": 2011,
+        "autor": "Jorge Luis Borges",
+        "rating": 8.1
+    },
+    {
+        "titlu": "Cititorul",
+        "gen": "Literatura",
+        "an_publicare": 1995,
+        "autor": "Bernhard Schlink",
+        "rating": 8.3
+    },
+    {
+        "titlu": "Cititorul",
+        "gen": "7",
+        "an_publicare": 7,
+        "autor": "7",
+        "rating": 7.0
+    }
+]
