@@ -1,30 +1,30 @@
 [
     {
         "titlu": "Lolita",
-        "gen": "Roman contemporan",
-        "an_publicare": 2013,
+        "gen": "Roman",
+        "an_publicare": 1955,
         "autor": "Vladimir Nabokov",
         "rating": 7.2
     },
     {
         "titlu": "Aleph",
-        "gen": "Beletristica",
-        "an_publicare": 2011,
+        "gen": "Roman",
+        "an_publicare": 1945,
         "autor": "Jorge Luis Borges",
         "rating": 8.1
     },
     {
         "titlu": "Cititorul",
-        "gen": "Literatura",
+        "gen": "Roman",
         "an_publicare": 1995,
         "autor": "Bernhard Schlink",
         "rating": 8.3
     },
     {
-        "titlu": "Cititorul",
-        "gen": "7",
-        "an_publicare": 7,
-        "autor": "7",
-        "rating": 7.0
+        "titlu": "Intoarcerea huliganului",
+        "gen": "Roman",
+        "an_publicare": 2003,
+        "autor": "Norman Manea",
+        "rating": 9.0
     }
 ]
